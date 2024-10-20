@@ -1,6 +1,8 @@
 # ResourcesLinkedSignalTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+- Created w/v18, updated to 19.0.0.next-10, symlinked to build of PR's branch
+- Resources PR: https://github.com/angular/angular/pull/58255
+- How to symlink to use the PR's branch: https://github.com/angular/angular/blob/main/contributing-docs/building-and-testing-angular.md#invoking-the-angular-cli
 
 ## Development server
 
